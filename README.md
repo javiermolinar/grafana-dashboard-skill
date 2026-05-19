@@ -18,6 +18,7 @@ Create a query-path triage dashboard in the Platform folder.
 Use existing dashboards in this Grafana instance as examples.
 Validate the saved dashboard and take a screenshot before finishing.
 ```
+<img width="1416" height="594" alt="Screenshot 2026-05-19 at 23 45 39" src="https://github.com/user-attachments/assets/25b1a37a-560c-41a9-a29d-1142664adbbe" />
 
 
 ## Requirements
