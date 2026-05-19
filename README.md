@@ -2,8 +2,6 @@
 
 Grafana CLI ([GCX](https://github.com/grafana/gcx)) is a great tool for creating dashboards. It lets your fav agent iterate on your idea. The problem is that your agent sees the JSON, not what it really looks like.
 
-This is an agent skill, not a Grafana plugin.
-
 This skill is your agent's eyes. It will allow it to:
 
 1. create or update dashboards,
